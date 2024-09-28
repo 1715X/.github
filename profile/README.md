@@ -7,19 +7,19 @@ Welcome to the official profile of **Cyber X**, VEX IQ Robotics Competition Team
 ### Members & Roles
 
 **Aaryan Patel**  
-*Programmer | Builder | Assistant Online Challenge Manager*
+*Assistant Online Challenge Manager*
 
 **Advaith Gundu**  
 *Team Leader | Lead Programmer | Designer | Builder*
 
 **Arnav Khatri**  
-*Builder | Designer*
+*Online Challenge Manager*
 
 **Jemin Mehta**  
 *Designer | Notebook Manager*
 
 **Jenil Mehta**  
-*Lead Builder | Designer | Notebook Assistant*
+*Lead Builder | Designer | Notebook Assistant | Programmer*
 
 **Mithran Ganesh**  
 *Builder*
