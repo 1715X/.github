@@ -19,7 +19,7 @@ Welcome to the official profile of **Cyber X**, VEX IQ Robotics Competition Team
 *Designer | Notebook Manager*
 
 **Jenil Mehta**  
-*Lead Builder | Designer | Notebook Assistant | Programmer*
+*Lead Builder | Designer | Notebook Assistant*
 
 **Mithran Ganesh**  
 *Builder*
